@@ -1,0 +1,35 @@
+---
+title: "Menus TGV"
+lang: fr
+format: 
+  html:
+    theme: minty
+    logo: images/Sncf_logo.png
+    title-block-banner: true
+    embed-resources: true
+    toc: true
+    toc-location: left
+    toc-title: Au menu
+    date: last-modified
+    other-links:
+      - text: SNCF Open Data
+        href: https://ressources.data.sncf.com/explore/dataset/menus-des-bars-tgv/information/
+css: styles.css
+---
+
+## Boissons
+
+
+## Sucré
+
+
+## Salé
+
+
+## Apports caloriques moyens
+
+
+## Nutriments
+
+
+## Prix
