@@ -1,3 +1,2 @@
 # FormationGit_exemple
 
-## Intro
