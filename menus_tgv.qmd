@@ -17,14 +17,33 @@ format:
 css: styles.css
 ---
 
+```{r}
+#| label: donnees_packages
+#| include: false
+
+source("R/init.r")
+```
+
 ## Boissons
 
+```{r}
+#| echo: false
+tableau_categorie("Boissons")
+```
 
 ## Sucré
 
+```{r}
+#| echo: false
+tableau_categorie("Sucré")
+```
 
 ## Salé
 
+```{r}
+#| echo: false
+tableau_categorie("Salé")
+```
 
 ## Apports caloriques moyens
 
