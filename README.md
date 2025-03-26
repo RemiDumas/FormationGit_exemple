@@ -11,3 +11,7 @@ L'objectif de ce projet est de réaliser une plaquette de présentation des prod
 
 ## Contenus
 Dans cette plaquette, on devra trouver la liste des produits et un tableau d'indicateurs (nombre, prix moyen, part du Bio, taux de glucides) par catégorie.
+
+## Données
+
+- Fichier: menus_tgv.csv
